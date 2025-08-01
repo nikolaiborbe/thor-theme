@@ -1,0 +1,43 @@
+{
+  "name": "thor-theme",
+  "displayName": "Thor Theme",
+  "description": "Dark theme based on Sebastian Lague's color scheme",
+  "version": "1.0.0",
+  "publisher": "nikolaiborbe",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#28282f",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Thor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/thor.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikolaiborbe/thor-theme"
+  },
+  "homepage": "https://github.com/nikolaiborbe/thor-theme/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/nikolaiborbe/thor-theme/issues"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "thor",
+    "sebastian lague",
+    "color-theme"
+  ],
+  "license": "MIT"
+}
