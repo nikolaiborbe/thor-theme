@@ -1102,7 +1102,9 @@
     },
     {
       "scope": [
-        "meta.block variable.other"
+        "meta.block variable.other",
+        "variable.parameter",
+        "variable"
       ],
       "settings": {
         "foreground": "#F07178"
