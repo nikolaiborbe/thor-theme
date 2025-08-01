@@ -1119,24 +1119,6 @@
     },
     {
       "scope": [
-        "constant.numeric",
-        "constant.language",
-        "support.constant",
-        "constant.character",
-        "constant.escape",
-        "variable.parameter",
-        "keyword.other.unit",
-        "keyword.other",
-        "variable.parameter",
-        "variable.other",
-        "variable"
-      ],
-      "settings": {
-        "foreground": "#F78C6C"
-      }
-    },
-    {
-      "scope": [
         "string",
         "constant.other.symbol",
         "constant.other.key",
@@ -1329,14 +1311,6 @@
       ],
       "settings": {
         "foreground": "#FFCB6B"
-      }
-    },
-    {
-      "scope": [
-        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
-      ],
-      "settings": {
-        "foreground": "#F78C6C"
       }
     },
     {
