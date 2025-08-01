@@ -1102,9 +1102,7 @@
     },
     {
       "scope": [
-        "meta.block variable.other",
-        "variable.parameter",
-        "variable"
+        "meta.block",
       ],
       "settings": {
         "foreground": "#F07178"
@@ -1128,7 +1126,10 @@
         "constant.escape",
         "variable.parameter",
         "keyword.other.unit",
-        "keyword.other"
+        "keyword.other",
+        "variable.parameter",
+        "variable.other",
+        "variable"
       ],
       "settings": {
         "foreground": "#F78C6C"
