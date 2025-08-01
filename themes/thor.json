@@ -1193,15 +1193,6 @@
     },
     {
       "scope": [
-        "variable.language"
-      ],
-      "settings": {
-        "foreground": "#FF5370",
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": [
         "entity.name.method.js"
       ],
       "settings": {
