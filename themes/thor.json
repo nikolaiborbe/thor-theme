@@ -1094,10 +1094,14 @@
         "keyword.other.special-method",
         "entity.name.type",
         "constant.language.boolean",
-        "variable.other"
+        "meta.function-call.ocaml",
+        "variable.function.ocaml",
+        "support.function.ocaml",
+        "source.ocaml meta.function-call meta.function.call.generic.ocaml meta.function.call.ocaml",
+        "source.ocaml variable.other"
       ],
       "settings": {
-        "foreground": "#8FB2FD"
+        "foreground": "#8FB2FD",
       }
     },
     {
@@ -1323,7 +1327,20 @@
     },
     {
       "scope": [
-        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
+        "constant.numeric.integer",
+        "constant.numeric.float",
+        "constant.numeric.decimal.integer.ocaml source.ocaml",
+        "constant.numeric.decimal.float.ocaml source.ocaml",
+        "constant.numeric.dec",
+        "variable.parameter.function",
+        "meta.function.parameter",
+        "entity.name.variable.parameter",
+        "variable.parameter",
+        "variable.parameter.function.language.python",
+        "meta.function.parameters.python",
+        "meta.function.python",
+        "source.python"
       ],
       "settings": {
         "foreground": "#C17E70"
