@@ -990,7 +990,6 @@
         "entity.name.variable.local",
         "entity.name.variable.field",
         "string constant.other.placeholder",
-        "variable.other.readwrite"
       ],
       "settings": {
         "foreground": "#CFDDDD"
@@ -1094,7 +1093,8 @@
         "support.function",
         "keyword.other.special-method",
         "entity.name.type",
-        "constant.language.boolean"
+        "constant.language.boolean",
+        "variable.other"
       ],
       "settings": {
         "foreground": "#8FB2FD"
