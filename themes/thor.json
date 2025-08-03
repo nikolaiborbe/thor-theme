@@ -1087,6 +1087,14 @@
     },
     {
       "scope": [
+        "function",
+        "meta.function-call.object",
+        "meta.function-call.php",
+        "meta.function-call.static",
+        "meta.method-call.java meta.method",
+        "meta.method.groovy",
+        "support.function.any-method.lua",
+        "keyword.operator.function.infix",
         "entity.name.function",
         "meta.function-call",
         "variable.function",
@@ -1340,7 +1348,6 @@
         "variable.parameter.function.language.python",
         "meta.function.parameters.python",
         "meta.function.python",
-        "source.python"
       ],
       "settings": {
         "foreground": "#C17E70"

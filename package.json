@@ -2,7 +2,7 @@
   "name": "thor-theme",
   "displayName": "Thor Theme",
   "description": "Dark theme based on Sebastian Lague's color scheme",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "publisher": "nikolaiborbe",
   "engines": {
     "vscode": "^1.75.0"
